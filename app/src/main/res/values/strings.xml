@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ASOSExercise</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_error">Error</string>
+    <string name="text_success">Success</string>
+    <string name="text_ok">OK</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="text_yes">yes</string>
+    <string name="ascending_or_descending_order">Ascending or descending order</string>
+    <string name="text_filter_options">Filter Options</string>
+    <string name="text_date">Date</string>
+    <string name="text_filter">Filter</string>
+    <string name="filter_author">Author</string>
+    <string name="filter_date">Date</string>
+    <string name="key_filter">filter</string>
+    <string name="key_order">order</string>
+    <string name="order_asc">ASC</string>
+    <string name="order_desc">DESC</string>
+    <string name="text_apply">Apply</string>
+    <string name="date_time_of_the_launch">Date/Time of the launch:</string>
+    <string name="rocket">Rocket:</string>
+    <string name="days_since_from_now">Days {since/from} now:</string>
+    <string name="article_link">Article Link</string>
+    <string name="wikipedia">Wikipedia</string>
+    <string name="youtube_video">Youtube Video</string>
+    <string name="spacex">SpaceX</string>
+    <string name="company">Company</string>
+    <string name="launches">Launches</string>
+    <string name="return_api_error">Sorry, we don\'t have any details from this launch.</string>
+    <string name="days_since">Days since now:</string>
+</resources>
